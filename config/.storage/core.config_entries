@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "minor_version": 5,
+  "key": "core.config_entries",
+  "data": {
+    "entries": [
+      {"created_at":"2026-05-23T15:11:37.240231+00:00","data":{},"disabled_by":null,"discovery_keys":{},"domain":"sun","entry_id":"01KSAP8K8RJASEZS6M249ENKWJ","minor_version":1,"modified_at":"2026-05-23T15:11:37.240235+00:00","options":{},"pref_disable_new_entities":false,"pref_disable_polling":false,"source":"import","subentries":[],"title":"Sun","unique_id":null,"version":1},
+      {"created_at":"2026-05-23T15:11:38.647949+00:00","data":{},"disabled_by":null,"discovery_keys":{},"domain":"bluetooth","entry_id":"01KSAP8MMQZ6RTQ1SHATWZWRW9","minor_version":1,"modified_at":"2026-05-23T15:11:38.647952+00:00","options":{},"pref_disable_new_entities":false,"pref_disable_polling":false,"source":"integration_discovery","subentries":[],"title":"Intel Corporate 0033 (98:5F:41:67:9B:EC)","unique_id":"98:5F:41:67:9B:EC","version":1},
+      {"created_at":"2026-05-23T15:11:38.659185+00:00","data":{},"disabled_by":null,"discovery_keys":{},"domain":"backup","entry_id":"01KSAP8MN3V97V6249KPG2AH7Z","minor_version":1,"modified_at":"2026-05-23T15:11:38.659190+00:00","options":{},"pref_disable_new_entities":false,"pref_disable_polling":false,"source":"system","subentries":[],"title":"Backup","unique_id":null,"version":1},
+      {"created_at":"2026-05-23T15:21:09.034670+00:00","data":{},"disabled_by":null,"discovery_keys":{},"domain":"shopping_list","entry_id":"01KSAPT1NAHCGVNN5XCYT0FRD1","minor_version":1,"modified_at":"2026-05-23T15:21:09.034675+00:00","options":{},"pref_disable_new_entities":false,"pref_disable_polling":false,"source":"onboarding","subentries":[],"title":"Shopping list","unique_id":"shopping_list","version":1},
+      {"created_at":"2026-05-23T15:21:09.049584+00:00","data":{"language":"en","tld":"com"},"disabled_by":null,"discovery_keys":{},"domain":"google_translate","entry_id":"01KSAPT1NS0ZQA7ZBE70WVKRWD","minor_version":1,"modified_at":"2026-05-23T15:21:09.049589+00:00","options":{},"pref_disable_new_entities":false,"pref_disable_polling":false,"source":"onboarding","subentries":[],"title":"Google Translate text-to-speech","unique_id":null,"version":1},
+      {"created_at":"2026-05-23T15:21:09.079738+00:00","data":{"track_home":true},"disabled_by":null,"discovery_keys":{},"domain":"met","entry_id":"01KSAPT1PQT394NZZ18JVNK6GS","minor_version":1,"modified_at":"2026-05-23T15:21:09.079747+00:00","options":{},"pref_disable_new_entities":false,"pref_disable_polling":false,"source":"onboarding","subentries":[],"title":"Home","unique_id":null,"version":1},
+      {"created_at":"2026-05-23T15:21:09.288376+00:00","data":{},"disabled_by":null,"discovery_keys":{},"domain":"radio_browser","entry_id":"01KSAPT1X8SZX936XP2F2KJ2V6","minor_version":1,"modified_at":"2026-05-23T15:21:09.288382+00:00","options":{},"pref_disable_new_entities":false,"pref_disable_polling":false,"source":"onboarding","subentries":[],"title":"Radio Browser","unique_id":null,"version":1}
+    ]
+  }
+}
